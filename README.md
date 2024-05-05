@@ -1,4 +1,4 @@
-# Hi there, I'm John 👋
+# I am John
 
 ## 🚀 About Me
 I'm a passionate Data Scientist with a keen interest in Python, R, Machine Learning, and Artificial Intelligence.
