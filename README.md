@@ -16,12 +16,12 @@ I'm a passionate **Data Scientist** with a keen interest in Python, R, Machine L
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnmarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarquess&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -73,15 +73,10 @@ I'm a passionate **Data Scientist** with a keen interest in Python, R, Machine L
 
 ## 📈 GitHub Activity
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnmarquess&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=johnmarquess&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  **"Data is the new oil, but only if you know how to refine it!"** 🛢️➡️💎
-</div>
 
