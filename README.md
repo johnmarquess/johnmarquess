@@ -1,6 +1,4 @@
-# Hi there, I'm John!  👋
-
-## 🚀 About Me
+## About Me
 
 I'm a **Data Scientist** and **Epidemiologist** focused on applying analytics and statistical methods to real-world health problems. I work across the full lifecycle of population health intelligence—from raw data wrangling to delivering evidence that supports planning and decision-making.
 
@@ -15,7 +13,7 @@ I enjoy turning complex, messy health data into practical insights that support 
 📈 **Goal:** Contribute to open-source data/health analytics tools and share robust, reproducible approaches to population health reporting
 
 
-## 🧭 Population Health & Epidemiology Focus
+## Population Health & Epidemiology Focus
 
 - **Population health analytics:** Trend monitoring, stratification, and inequity analysis across demographics, geography, and priority populations  
 - **Health planning & service intelligence:** Translating data into planning insights (need, demand, access, utilisation, outcomes) and supporting evidence-based decisions  
@@ -26,7 +24,7 @@ I enjoy turning complex, messy health data into practical insights that support 
 - **Geospatial analysis (where relevant):** Area-level indicators, mapping, service catchments, and spatial patterns (while accounting for small numbers and uncertainty)
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnmarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -37,42 +35,34 @@ I enjoy turning complex, messy health data into practical insights that support 
   <img src="https://streak-stats.demolab.com/? user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
-### 💻 Programming Languages
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🧠 Data Science, Analytics & Epidemiology
+### Data Science, Analytics & Epidemiology
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
-### 📍 Visualisation & Reporting (Population Health)
+### Visualisation & Reporting (Population Health)
 - Interactive dashboards and reporting workflows for health indicators, outcomes, and service intelligence  
 - Automated outputs for routine reporting (repeatable charts, tables, QA checks, and publishing)
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626? style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 📊 Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-</p>
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📊 [CensusData](https://github.com/johnmarquess/CensusData)
 - **Description:** R package for working with Australian census data
@@ -96,11 +86,6 @@ I enjoy turning complex, messy health data into practical insights that support 
 - **Description:** Transform Australian Government open datasets into interactive, map-enabled planning tools for population health and service planning  
 - **Tech Stack:** Python, SQL, (Dash/Streamlit), GIS tooling, reproducible pipelines  
 - **Status:** 🔄 In Progress
-
-### 🧩 Population Health Reporting Patterns
-- **Description:** Reproducible templates for population health reporting—indicator computation, stratification, QA checks, and publication-ready visuals  
-- **Focus:** Routine reporting, equity stratifiers, small-number handling, and clear stakeholder communication  
-- **Status:** 🔄 Ongoing
 
 *Check my repositories for more projects and updates on my latest work!*
 
