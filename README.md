@@ -1,17 +1,29 @@
 # Hi there, I'm John! 👋
 
-
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** with a keen interest in Python, R, Machine Learning, and Artificial Intelligence. I love turning complex data into actionable insights and building intelligent systems that solve real-world problems.
+I'm a **Data Scientist** and **Epidemiologist** focused on applying analytics and statistical methods to real-world health problems. I work across the full lifecycle of population health intelligence—from data engineering and rigorous analysis through to decision-grade visualisation and reporting for health planning.
 
-🔭 **Currently working on:** A project to streamline my NLP workflows and develop automated text analysis pipelines
+I enjoy turning complex, messy health data into practical insights that support service design, equitable resource allocation, and better outcomes at population scale.
 
-🌱 **Learning:** Advanced Python techniques, deep learning frameworks, and cloud computing platforms
+🔭 **Currently working on:** Visualising Australian Government open data sources into interactive planning tools to support population health and service design
 
-💡 **Interested in:** Natural Language Processing, Computer Vision, Statistical Modeling, and Data Visualization
+🌱 **Learning:** Advanced Python patterns, deep learning frameworks, and cloud-native analytics workflows
 
-📈 **Goal:** To contribute to open-source ML projects and share knowledge with the data science community
+💡 **Interested in:** Epidemiologic methods, statistical modelling, causal inference, machine learning, NLP, and high-quality data visualisation
+
+📈 **Goal:** Contribute to open-source data/health analytics tools and share robust, reproducible approaches to population health reporting
+
+
+## 🧭 Population Health & Epidemiology Focus
+
+- **Population health analytics:** Trend monitoring, stratification, and inequity analysis across demographics, geography, and priority populations  
+- **Health planning & service intelligence:** Translating data into planning insights (need, demand, access, utilisation, outcomes) and supporting evidence-based decisions  
+- **Epidemiologic methods:** Study design support, routine surveillance, cohort/registry analytics, and interpretation of bias/uncertainty  
+- **Reporting & communication:** Building “decision-ready” products—clear narratives, interpretable visuals, and documentation that stakeholders can trust  
+- **Data quality & governance:** Reproducible pipelines, versioned outputs, validation checks, and transparent assumptions  
+- **Visualisation of population health data:** Interactive dashboards, automated reporting, and publication-quality graphics  
+- **Geospatial analysis (where relevant):** Area-level indicators, mapping, service catchments, and spatial patterns (while accounting for small numbers and uncertainty)
 
 
 ## 📊 GitHub Stats
@@ -34,7 +46,7 @@ I'm a passionate **Data Scientist** with a keen interest in Python, R, Machine L
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### 🧠 Machine Learning & Data Science
+### 🧠 Data Science, Analytics & Epidemiology
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -43,9 +55,13 @@ I'm a passionate **Data Scientist** with a keen interest in Python, R, Machine L
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 </p>
 
+### 📍 Visualisation & Reporting (Population Health)
+- Interactive dashboards and reporting workflows for health indicators, outcomes, and service intelligence  
+- Automated outputs for routine reporting (repeatable charts, tables, QA checks, and publishing)
+
 ### 🛠️ Tools & Platforms
 <p align="left">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -58,11 +74,16 @@ I'm a passionate **Data Scientist** with a keen interest in Python, R, Machine L
 
 ## 🚀 Featured Projects
 
-### 🔍 NLP Workflow Optimizer
+### 🗺️ Australian Open Data Planning Visualiser
 *Currently in development*
-- **Description:** Automated pipeline for text preprocessing, analysis, and model deployment
-- **Tech Stack:** Python, spaCy, NLTK, Flask, Docker
+- **Description:** Transform Australian Government open datasets into interactive, map-enabled planning tools for population health and service planning  
+- **Tech Stack:** Python, SQL, (Dash/Streamlit), GIS tooling, reproducible pipelines  
 - **Status:** 🔄 In Progress
+
+### 🧩 Population Health Reporting Patterns
+- **Description:** Reproducible templates for population health reporting—indicator computation, stratification, QA checks, and publication-ready visuals  
+- **Focus:** Routine reporting, equity stratifiers, small-number handling, and clear stakeholder communication  
+- **Status:** 🔄 Ongoing
 
 ### 📈 Data Analysis Toolkit
 - **Description:** Collection of reusable Python scripts for common data science tasks  
@@ -78,5 +99,3 @@ I'm a passionate **Data Scientist** with a keen interest in Python, R, Machine L
 </div>
 
 ---
-
-
