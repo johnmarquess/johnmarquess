@@ -32,7 +32,7 @@ I enjoy turning complex, messy health data into practical insights that support 
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com/? user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## Technologies & Tools
