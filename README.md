@@ -29,9 +29,7 @@ I enjoy turning complex, messy health data into practical insights that support 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnmarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=johnmarquess&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnmarquess&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
