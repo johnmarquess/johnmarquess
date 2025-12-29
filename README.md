@@ -31,8 +31,8 @@ I enjoy turning complex, messy health data into practical insights that support 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=johnmarquess&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
+<<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnmarquess&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ## Technologies & Tools
@@ -82,11 +82,5 @@ I enjoy turning complex, messy health data into practical insights that support 
 - **Status:** 🔄 In Progress
 
 *Check my repositories for more projects and updates on my latest work!*
-
-## 📈 GitHub Activity
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnmarquess&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
 
 ---
