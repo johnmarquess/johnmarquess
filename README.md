@@ -75,12 +75,6 @@ I enjoy turning complex, messy health data into practical insights that support 
 - **Tech Stack:** Data science tools, visualization libraries
 - **Status:** 🔄 Active
 
-### 📝 [mytemplate](https://github.com/johnmarquess/mytemplate)
-- **Description:** LaTeX template for making PDFs with knitr - automated report generation for data science projects
-- **Tech Stack:** LaTeX, R, knitr
-- **Focus:** Reproducible reporting and document generation
-- **Status:** ✅ Published
-
 ### 🗺️ Australian Open Data Planning Visualiser
 *Currently in development*
 - **Description:** Transform Australian Government open datasets into interactive, map-enabled planning tools for population health and service planning  
