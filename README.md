@@ -1,10 +1,10 @@
-# Hi there, I'm John! 👋
+# Hi there, I'm John!  👋
 
 ## 🚀 About Me
 
-I'm a **Data Scientist** and **Epidemiologist** focused on applying analytics and statistical methods to real-world health problems. I work across the full lifecycle of population health intelligence—from data engineering and rigorous analysis through to decision-grade visualisation and reporting for health planning.
+I'm a **Data Scientist** and **Epidemiologist** focused on applying analytics and statistical methods to real-world health problems. I work across the full lifecycle of population health intelligence—from raw data wrangling to delivering evidence that supports planning and decision-making.
 
-I enjoy turning complex, messy health data into practical insights that support service design, equitable resource allocation, and better outcomes at population scale.
+I enjoy turning complex, messy health data into practical insights that support service design, equitable resource allocation, and better outcomes at population scale. 
 
 🔭 **Currently working on:** Visualising Australian Government open data sources into interactive planning tools to support population health and service design
 
@@ -20,7 +20,7 @@ I enjoy turning complex, messy health data into practical insights that support 
 - **Population health analytics:** Trend monitoring, stratification, and inequity analysis across demographics, geography, and priority populations  
 - **Health planning & service intelligence:** Translating data into planning insights (need, demand, access, utilisation, outcomes) and supporting evidence-based decisions  
 - **Epidemiologic methods:** Study design support, routine surveillance, cohort/registry analytics, and interpretation of bias/uncertainty  
-- **Reporting & communication:** Building “decision-ready” products—clear narratives, interpretable visuals, and documentation that stakeholders can trust  
+- **Reporting & communication:** Building "decision-ready" products—clear narratives, interpretable visuals, and documentation that stakeholders can trust  
 - **Data quality & governance:** Reproducible pipelines, versioned outputs, validation checks, and transparent assumptions  
 - **Visualisation of population health data:** Interactive dashboards, automated reporting, and publication-quality graphics  
 - **Geospatial analysis (where relevant):** Area-level indicators, mapping, service catchments, and spatial patterns (while accounting for small numbers and uncertainty)
@@ -30,11 +30,11 @@ I enjoy turning complex, messy health data into practical insights that support 
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=johnmarquess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmarquess&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=johnmarquess&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/? user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🔧 Technologies & Tools
@@ -62,7 +62,7 @@ I enjoy turning complex, messy health data into practical insights that support 
 ### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626? style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -73,6 +73,23 @@ I enjoy turning complex, messy health data into practical insights that support 
 </p>
 
 ## 🚀 Featured Projects
+
+### 📊 [CensusData](https://github.com/johnmarquess/CensusData)
+- **Description:** R package for working with Australian census data
+- **Tech Stack:** R, statistical analysis, demographic research
+- **Focus:** Census data analysis, demographic research, and population statistics
+- **Status:** ✅ Published
+
+### 🗺️ [PopProject](https://github.com/johnmarquess/PopProject)
+- **Description:** Population data analysis and visualization project
+- **Tech Stack:** Data science tools, visualization libraries
+- **Status:** 🔄 Active
+
+### 📝 [mytemplate](https://github.com/johnmarquess/mytemplate)
+- **Description:** LaTeX template for making PDFs with knitr - automated report generation for data science projects
+- **Tech Stack:** LaTeX, R, knitr
+- **Focus:** Reproducible reporting and document generation
+- **Status:** ✅ Published
 
 ### 🗺️ Australian Open Data Planning Visualiser
 *Currently in development*
@@ -85,12 +102,7 @@ I enjoy turning complex, messy health data into practical insights that support 
 - **Focus:** Routine reporting, equity stratifiers, small-number handling, and clear stakeholder communication  
 - **Status:** 🔄 Ongoing
 
-### 📈 Data Analysis Toolkit
-- **Description:** Collection of reusable Python scripts for common data science tasks  
-- **Tech Stack:** Python, Pandas, Matplotlib, Jupyter
-- **Status:** 🔄 Ongoing Updates
-
-*More projects coming soon! Check back for updates on my latest work.*
+*Check my repositories for more projects and updates on my latest work!*
 
 ## 📈 GitHub Activity
 
