@@ -25,11 +25,17 @@ I enjoy turning complex, messy health data into practical insights that support 
 
 
 ## GitHub Stats
+<div align="left">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmarquess&theme=tokyonight"/>
+</div>
 
 <div align="left">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmarquess&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnmarquess&theme=tokyonight"/>
+</div>
 
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=johnmarquess&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<div align="left">
+  <img src="https://streak-stats.demolab.com/? user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## Technologies & Tools
