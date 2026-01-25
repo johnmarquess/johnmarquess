@@ -1,6 +1,6 @@
 # John Marquess
 
-Health Intelligence specialist working at the intersection of population health, epidemiology, and data science. I develop decision-ready analytics that translate complex health, service utilisation, and outcomes data into actionable insight for planning, commissioning, and model-of-care design.
+Health Intelligence specialist working at the intersection of population health, epidemiology, and data science—spanning acute healthcare, primary care, and public health. I develop decision-ready analytics that translate complex health, service utilisation, and outcomes data into actionable insight for planning, commissioning, and model-of-care design.
 
 ## Current work
 - Building reproducible analytics and interactive planning tools using Australian open datasets to support population health intelligence, service design, and resource allocation.
@@ -16,7 +16,7 @@ Health Intelligence specialist working at the intersection of population health,
 - Languages: Python, R, SQL  
 - Analytics: epidemiologic methods, statistical modelling, causal thinking, machine learning (where appropriate)  
 - Data engineering (lightweight): reproducible pipelines, structured datasets, automated QA  
-- Visualisation: publication-quality charts and map-enabled dashboards for planning use-cases
+- Visualisation & BI: publication-quality charts, map-enabled dashboards, Power BI, and reporting for planning use-cases
 
 ## Selected projects
 - **[CensusData](https://github.com/johnmarquess/CensusData)** — R package for Australian census workflows and demographic analysis  
