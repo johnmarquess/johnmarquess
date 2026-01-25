@@ -1,89 +1,24 @@
-## About Me
+# John Marquess
 
-I'm a **Data Scientist** and **Epidemiologist** focused on applying analytics and statistical methods to real-world health problems. I work across the full lifecycle of population health intelligence—from raw data wrangling to delivering evidence that supports planning and decision-making.
+Health Intelligence specialist working at the intersection of population health, epidemiology, and data science. I develop decision-ready analytics that translate complex health, service utilisation, and outcomes data into actionable insight for planning, commissioning, and model-of-care design.
 
-I enjoy turning complex, messy health data into practical insights that support service design, equitable resource allocation, and better outcomes at population scale. 
+## Current work
+- Building reproducible analytics and interactive planning tools using Australian open datasets to support population health intelligence, service design, and resource allocation.
 
-🔭 **Currently working on:** Visualising Australian Government open data sources into interactive planning tools to support population health and service design
+## What I do
+- Population health intelligence: trend monitoring, stratification, inequity analysis, and small-area reporting  
+- Epidemiology and methods: routine surveillance, cohort/registry-style analysis, uncertainty and bias-aware interpretation  
+- Health service analytics: utilisation, demand profiling, access and pathway analysis, and outcome tracking  
+- Decision products: clear narratives, interpretable visuals, and documented assumptions suitable for executive and operational use  
+- Data quality and governance: validation rules, auditable pipelines, versioned outputs, and transparent methodology
 
-🌱 **Learning:** Advanced Python patterns, deep learning frameworks, and cloud-native analytics workflows
+## Core skills
+- Languages: Python, R, SQL  
+- Analytics: epidemiologic methods, statistical modelling, causal thinking, machine learning (where appropriate)  
+- Data engineering (lightweight): reproducible pipelines, structured datasets, automated QA  
+- Visualisation: publication-quality charts and map-enabled dashboards for planning use-cases
 
-💡 **Interested in:** Epidemiologic methods, statistical modelling, causal inference, machine learning, NLP, and high-quality data visualisation
-
-📈 **Goal:** Contribute to open-source data/health analytics tools and share robust, reproducible approaches to population health reporting
-
-
-## Population Health & Epidemiology Focus
-
-- **Population health analytics:** Trend monitoring, stratification, and inequity analysis across demographics, geography, and priority populations  
-- **Health planning & service intelligence:** Translating data into planning insights (need, demand, access, utilisation, outcomes) and supporting evidence-based decisions  
-- **Epidemiologic methods:** Study design support, routine surveillance, cohort/registry analytics, and interpretation of bias/uncertainty  
-- **Reporting & communication:** Building "decision-ready" products—clear narratives, interpretable visuals, and documentation that stakeholders can trust  
-- **Data quality & governance:** Reproducible pipelines, versioned outputs, validation checks, and transparent assumptions  
-- **Visualisation of population health data:** Interactive dashboards, automated reporting, and publication-quality graphics  
-- **Geospatial analysis (where relevant):** Area-level indicators, mapping, service catchments, and spatial patterns (while accounting for small numbers and uncertainty)
-
-
-## GitHub Stats
-<div align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnmarquess&theme=tokyonight"/>
-</div>
-
-<div align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=johnmarquess&theme=tokyonight"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johnmarquess&theme=tokyonight"/>
-</div>
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com/? user=johnmarquess&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-## Technologies & Tools
-
-### Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-</p>
-
-### Data Science, Analytics & Epidemiology
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-</p>
-
-### Visualisation & Reporting (Population Health)
-- Interactive dashboards and reporting workflows for health indicators, outcomes, and service intelligence  
-- Automated outputs for routine reporting (repeatable charts, tables, QA checks, and publishing)
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-## Featured Projects
-
-### 📊 [CensusData](https://github.com/johnmarquess/CensusData)
-- **Description:** R package for working with Australian census data
-- **Tech Stack:** R, statistical analysis, demographic research
-- **Focus:** Census data analysis, demographic research, and population statistics
-- **Status:** ✅ Published
-
-### 🗺️ [PopProject](https://github.com/johnmarquess/PopProject)
-- **Description:** Population data analysis and visualization project
-- **Tech Stack:** Data science tools, visualization libraries
-- **Status:** 🔄 Active
-
-### 🗺️ Australian Open Data Planning Visualiser
-*Currently in development*
-- **Description:** Transform Australian Government open datasets into interactive, map-enabled planning tools for population health and service planning  
-- **Tech Stack:** Python, SQL, (Dash/Streamlit), GIS tooling, reproducible pipelines  
-- **Status:** 🔄 In Progress
-
-*Check my repositories for more projects and updates on my latest work!*
-
----
+## Selected projects
+- **[CensusData](https://github.com/johnmarquess/CensusData)** — R package for Australian census workflows and demographic analysis  
+- **[PopProject](https://github.com/johnmarquess/PopProject)** — population data analysis and visualisation (active development)  
+- **Australian Open Data Planning Visualiser** — interactive planning tools for population health and service design (in development)
